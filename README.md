@@ -19,6 +19,7 @@ A centralized platform to manage library resources, allowing users to borrow and
 ## Screenshots
 ![Book Catalog](https://github.com/akashkvdev/LMS/blob/24323db4ec24e52444870818c29eb459d23bbf34/Bookcatlog.png)
 ![Book Circulation](https://github.com/akashkvdev/LMS/blob/24323db4ec24e52444870818c29eb459d23bbf34/Circulation.png)
+![Users Library Card](https://github.com/akashkvdev/LMS/blob/e7c7f88c60bdd9b16c94c4fa6c4ffd9518e6d90f/librarypag2.png)
 
 ## Setup Instructions
 1. Clone the repository: `git clone https://github.com/username/library-management-system.git`
